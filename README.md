@@ -24,4 +24,4 @@ ___
 *Имеется техническая возможность писать в БД полную информацию о вакансии и работодателе (Скрыта).*
 ___
 **Основные библиотеки:**\
-requests, pandas, numpy, matplotlib, bs4, psycopg2, sqlalchemy.
+telebot, requests, pandas, numpy, matplotlib, bs4, psycopg2, sqlalchemy.
